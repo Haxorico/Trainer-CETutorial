@@ -1,0 +1,7 @@
+E:\Coding\C#\aHACKINGa\trainerCETutorial\trainerCETutorial\bin\Debug\trainerCETutorial.exe.config
+E:\Coding\C#\aHACKINGa\trainerCETutorial\trainerCETutorial\bin\Debug\trainerCETutorial.exe
+E:\Coding\C#\aHACKINGa\trainerCETutorial\trainerCETutorial\bin\Debug\trainerCETutorial.pdb
+E:\Coding\C#\aHACKINGa\trainerCETutorial\trainerCETutorial\obj\Debug\trainerCETutorial.csproj.CoreCompileInputs.cache
+E:\Coding\C#\aHACKINGa\trainerCETutorial\trainerCETutorial\obj\Debug\trainerCETutorial.exe
+E:\Coding\C#\aHACKINGa\trainerCETutorial\trainerCETutorial\obj\Debug\trainerCETutorial.pdb
+E:\Coding\C#\aHACKINGa\trainerCETutorial\trainerCETutorial\obj\Debug\trainerCETutorial.csprojAssemblyReference.cache
